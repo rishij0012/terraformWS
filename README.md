@@ -5,5 +5,5 @@ features of this repo :
 
 File :
 - demo 3.tf : 
-           * used to provision instance on random AZ and launching ebs on same AZ where ec2 insatnce is launched.
-           * unique name given to each resources help to retrive default value of resources.
+           -> used to provision instance on random AZ and launching ebs on same AZ where ec2 insatnce is launched.
+           -> unique name given to each resources help to retrive default value of resources.
